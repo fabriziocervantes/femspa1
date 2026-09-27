@@ -1,4 +1,4 @@
-// Fem Spa Cancún · interactions
+// Floral Spa Cancún · interactions
 (() => {
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
